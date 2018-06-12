@@ -3,7 +3,6 @@ MylubanWeb：被测项目名称
 webtest：用于存放项目的测试用例、测试报告和测试数据等。
 driver：用于存放浏览器驱动等。在执行测试用例前根据执行场景将浏览器驱动复制到系统环境变量path目录下。
 package：用于存放自动化所用到的扩展包。如：HTMLTestRunner.py属于一个单独的模块，并且对其做了修改，所以在执行测试前需要将它复制到Python的Lib目录下。
-run_test.py：项目主程序。用来运行自动化用例。
 #startup.bat：用于启动Selenium Server，默认启动driver目录下的selenium-server-standalone-2.47.0.jar。
 自动化测试项目说明文档.docx：介绍当前项目的架构、配置和使用说明。
 
@@ -11,6 +10,7 @@ run_test.py：项目主程序。用来运行自动化用例。
 data：用来存放测试相关的数据。
 report：存放HTML测试报告。image目录用于存放测试过程中的截图。
 testcase：测试用例目录，用于存放测试用例及相关模块。
+run_test.py：项目主程序。用来运行自动化用例。
 
 三级目录：
 models：存放了一些公共的配置函数及公共类。
