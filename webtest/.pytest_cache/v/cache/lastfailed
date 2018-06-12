@@ -1,0 +1,4 @@
+{
+  "testcase/login_sta.py": true,
+  "testcase/login_test.py::loginTest::test_login5": true
+}
