@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="1334b3d3-71c8-4b9e-ad9d-cba95c0b7845" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/report/2018-06-12 16-57-17result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/report/2018-06-12 16-59-09result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webtest/report/2018-06-12 17-02-19result.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/report/image/user_pwd_empty.png" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/report/image/user_pwd_empty.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/report/image/user_pwd_error.png" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/report/image/user_pwd_error.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/report/image/user_pwd_true.png" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/report/image/user_pwd_true.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webtest/run_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/run_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webtest/testcase/models/function.py" beforeDir="false" afterPath="$PROJECT_DIR$/webtest/testcase/models/function.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +20,7 @@
     <SUITE FILE_PATH="coverage/MylubanWeb$py_test_for_testcase_login_sta_loginTest.coverage" NAME="py.test for testcase.login_sta.loginTest Coverage Results" MODIFIED="1528786018907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest" />
     <SUITE FILE_PATH="coverage/MylubanWeb$function.coverage" NAME="function Coverage Results" MODIFIED="1528870429201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest/testcase/models" />
     <SUITE FILE_PATH="coverage/MylubanWeb$py_test_in_login_sta_py.coverage" NAME="py.test in login_test.py Coverage Results" MODIFIED="1528787696946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest/testcase" />
-    <SUITE FILE_PATH="coverage/MylubanWeb$run_test__1_.coverage" NAME="run_test (1) Coverage Results" MODIFIED="1528794302115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest" />
+    <SUITE FILE_PATH="coverage/MylubanWeb$run_test__1_.coverage" NAME="run_test (1) Coverage Results" MODIFIED="1528877905826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest" />
     <SUITE FILE_PATH="coverage/MylubanWeb$py_test_for_login_sta_loginTest_test_login1.coverage" NAME="py.test for login_sta.loginTest.test_login1 Coverage Results" MODIFIED="1528773265460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest/testcase" />
     <SUITE FILE_PATH="coverage/MylubanWeb$tool__1_.coverage" NAME="tool (1) Coverage Results" MODIFIED="1528860075921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/桌面文件/版本获取工具(1)/版本获取工具" />
     <SUITE FILE_PATH="coverage/MylubanWeb$py_test_for_testcase_login_sta_loginTest_test_login1.coverage" NAME="py.test for testcase.login_sta.loginTest.test_login1 Coverage Results" MODIFIED="1528786040940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/webtest" />
@@ -38,8 +39,8 @@
       <file leaf-file-name="loginPage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webtest/testcase/page_obj/loginPage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+            <state relative-caret-position="-192">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#64#0" expanded="true" />
               </folding>
@@ -50,8 +51,8 @@
       <file leaf-file-name="login_test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webtest/testcase/login_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="833">
+              <caret line="49" column="57" lean-forward="true" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -59,25 +60,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="run_test.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="run_test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/webtest/run_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="442">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
               <folding>
                 <element signature="e#146#176#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="function.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/webtest/testcase/models/function.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="e#0#30#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -94,6 +83,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -105,9 +95,10 @@
         <option value="$PROJECT_DIR$/webtest/testcase/login_sta.py" />
         <option value="$PROJECT_DIR$/run_test.py" />
         <option value="$PROJECT_DIR$/自动化测试项目说明文档.txt" />
-        <option value="$PROJECT_DIR$/webtest/testcase/page_obj/loginPage.py" />
-        <option value="$PROJECT_DIR$/webtest/testcase/login_test.py" />
+        <option value="$PROJECT_DIR$/webtest/run_test.py" />
         <option value="$PROJECT_DIR$/webtest/testcase/models/function.py" />
+        <option value="$PROJECT_DIR$/webtest/testcase/login_test.py" />
+        <option value="$PROJECT_DIR$/webtest/testcase/page_obj/loginPage.py" />
       </list>
     </option>
   </component>
@@ -165,6 +156,26 @@
               <item name="webtest" type="462c0819:PsiDirectoryNode" />
               <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MylubanWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MylubanWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MylubanWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MylubanWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MylubanWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MylubanWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="webtest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="page_obj" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -196,7 +207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.function">
+  <component name="RunManager" selected="Python.run_test (1)">
     <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MylubanWeb" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -301,10 +312,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.run_test (1)" />
         <item itemvalue="Python.function" />
         <item itemvalue="Python.tool (1)" />
         <item itemvalue="Python.tool" />
-        <item itemvalue="Python.run_test (1)" />
         <item itemvalue="Python.run_test" />
       </list>
     </recent_temporary>
@@ -320,6 +331,21 @@
       <option name="presentableId" value="Default" />
       <updated>1528686344712</updated>
     </task>
+    <task id="LOCAL-00001" summary="增加复制最新报告的功能">
+      <created>1528873620368</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528873620368</updated>
+    </task>
+    <task id="LOCAL-00002" summary="去掉获取最新报告功能中的打印内容">
+      <created>1528874024009</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528874024009</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -356,11 +382,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32333332" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.22444445" />
       <window_info anchor="bottom" x="839" y="506" width="890" height="217" id="Run" order="3" visible="true" weight="0.32666665" />
       <window_info anchor="bottom" id="Terminal" order="11" />
@@ -384,8 +412,39 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加复制最新报告的功能" />
+    <MESSAGE value="去掉获取最新报告功能中的打印内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="去掉获取最新报告功能中的打印内容" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/webtest/testcase/page_obj/loginPage.py">
@@ -453,13 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webtest/testcase/models/myunit.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/webtest/testcase/page_obj/base.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -485,26 +537,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webtest/report/2018-06-12 16-57-17result.html" />
-    <entry file="file://$PROJECT_DIR$/webtest/testcase/page_obj/loginPage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#64#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/webtest/testcase/login_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://F:/桌面文件/获取BE版本工具/tool.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
@@ -545,22 +577,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/webtest/run_test.py">
+    <entry file="file://$PROJECT_DIR$/webtest/testcase/models/myunit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="119">
+          <caret line="7" column="20" lean-forward="true" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
-            <element signature="e#146#176#0" expanded="true" />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/webtest/testcase/models/function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="359">
           <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webtest/testcase/login_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="57" lean-forward="true" selection-start-line="49" selection-start-column="57" selection-end-line="49" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webtest/testcase/page_obj/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-192">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webtest/run_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="e#146#176#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -10,6 +10,7 @@
 
 import unittest, os, time, sys
 from HTMLTestRunner import HTMLTestRunner
+from testcase.models.function import copy_latest_report
 
 # 指定测试用例为当前文件夹下的testcase目录
 test_dir = './testcase'
@@ -22,4 +23,5 @@ if __name__ == '__main__':
     runner = HTMLTestRunner(stream=fp, title='myluban web test', description='用例执行情况：')
     runner.run(discover)
     fp.close()
+    copy_latest_report()
 

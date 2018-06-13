@@ -22,7 +22,7 @@ def latest_report():
     lists.sort(key=lambda fn: os.path.getmtime(result_dir+"\\"+fn))
     print('最新的文件为： ' + lists[-1])
     file = os.path.join(result_dir, lists[-1]).replace('\\','/')
-    print(file)
+    # print(file)
     return file
 
 #复制最新的测试报告
@@ -30,7 +30,7 @@ def copy_latest_report():
     old = latest_report()
     new = old.split('/20')[0] + '/new_report.html'
     shutil.copyfile(old, new)
-    print('copy done!')
+    # print('copy done!')
 
     
 if __name__ == '__main__':
